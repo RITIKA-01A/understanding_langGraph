@@ -1,0 +1,4 @@
+langchain_groq
+langgraph
+langchain_chroma
+pypdf
